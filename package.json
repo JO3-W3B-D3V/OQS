@@ -1,0 +1,13 @@
+{
+  "author": "Joseph Evans",
+  "name": "OQS",
+  "description": "Object Query Script",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/mocha": "^5.2.5",
+    "assert": "^1.4.1",
+    "jsdoc": "^3.5.5",
+    "mocha": "^5.2.0"
+  }
+}
